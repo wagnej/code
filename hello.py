@@ -1,1 +1,2 @@
-print("mars")
+print("hi")
+print("world")
